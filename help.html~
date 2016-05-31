@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<iframe src="fb://help"></iframe>
+<script>document.location=’fb://help'></script>
 
 </body>
 </html>
