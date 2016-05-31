@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<script>document.location=’googlechrome://www.blueapron.com'></script>
 <a href="googlechrome://www.blueapron.com">blue apron</a>
+<a href="fb://hi">fb</a>
 
 </body>
 </html>
