@@ -6,6 +6,7 @@
 <body>
 
 <script>document.location=’googlechrome://www.blueapron.com'></script>
+<a href="googlechrome://www.blueapron.com">blue apron</a>
 
 </body>
 </html>
